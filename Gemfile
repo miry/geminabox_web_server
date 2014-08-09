@@ -1,6 +1,6 @@
-source "http://gems.jetthoughts.com"
+source "https://rubygems.org"
+#source "http://gems.jetthoughts.com"
 
 gem 'geminabox'
-gem 'unicorn'
-gem 'unicorn-worker-killer'
+gem 'puma'
 
